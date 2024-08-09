@@ -1,0 +1,15 @@
+*~
+*.o
+*.aux
+*.marks
+*.class
+bin/
+dist/
+dist-src/
+interf.h
+interfac.h
+lib/
+src/pm/*.c
+src/pmc/*.c
+
+*.DS_Store
