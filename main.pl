@@ -13,3 +13,7 @@ region(paysDeLaLoire).
 region(provenceAlpesCoteDAzur).
 
 departement(ain, auvergneRhôneAlpes).
+departement(aisne, hautsDeFrance).
+departement(allier, auvergneRhôneAlpes).
+departement(alpesDeHauteProvence, provenceAlpesCoteDAzur).
+departement(hautesAlpes, provenceAlpesCoteDAzur).
