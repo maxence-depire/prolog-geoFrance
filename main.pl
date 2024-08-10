@@ -11,3 +11,5 @@ region(nouvelleAquitaine).
 region(occitanie).
 region(paysDeLaLoire).
 region(provenceAlpesCoteDAzur).
+
+departement(ain, auvergneRhôneAlpes).
