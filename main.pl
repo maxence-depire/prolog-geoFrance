@@ -113,3 +113,15 @@ departement(martinique, 97, martinique).
 departement(guyane, 97, guyane).
 departement(laRéunion, 97, laRéunion).
 departement(mayotte, 97, mayotte).
+
+specialitePerRegion(lesCrepes, bretagne).
+specialitePerRegion(laTarteTatin, centreValDeLoire).
+specialitePerRegion(charcuterie, corse).
+specialitePerRegion(choucroute, grandEst).
+specialitePerRegion(moulesFrites, hautsDeFrance).
+specialitePerRegion(macaron, ileDeFrance).
+specialitePerRegion(cidre, normandie).
+specialitePerRegion(cabbeléBordelais, nouvelleAquitaine).
+specialitePerRegion(cassoulet, occitanie).
+specialitePerRegion(rillettesDuMans, paysDeLaLoire).
+specialitePerRegion(bouillabaisse, provenceAlpesCoteDAzur).
